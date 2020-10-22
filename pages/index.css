@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 @import url('../vendor/normalize.css'); 
 @import url('../blocks/rotation/rotation.css'); 
 @import url('../blocks/page/page.css'); 
+=======
+@import url('../vendor/pages/normalize.css');
+@import url('../blocks/rotation/rotation.css');
+@import url('../blocks/page/page.css');
+>>>>>>> 9c6038782aea68c2b56e6254dff065f424c28132
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
